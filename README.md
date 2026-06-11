@@ -3,7 +3,7 @@
 Resources in this repository. 
 
 /code
-Python notebooks used to generate figures in manuscript. Notebooks are named with reference to pertinent figures and analysis. 
+Core analytic pipeline for manuscript in form of python notebooks. Where relevant, notebooks are named with reference to pertinent figures. 
 
 /data
 Raw spiking data is shared for all 1,196 neurons in the database. Raw expression strength data is shared for all 154 assemblies in the database. There are two datastructures with the following format. 
